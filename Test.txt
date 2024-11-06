@@ -1,1 +1,29 @@
 Git Practice  
+GIT Global Information tracker 
+git is the version control system 
+It helps developers to track changes to their code over the time, collaborate on code with others and manage different version of code or project.
+
+What is GITHUB?
+It is a web based platform that host git repositories 
+It provides a user friendly interface for working with git repositories 
+
+What is Repositories 
+It is a central place where your project files and the history of changes to this files are stored.
+Types of Repositories
+1. Public:  Accessible to every one on the Internet. They can be use for open source projects. When u want others to view, use and contribute to code.  
+2. Private: restricted to the selected collaborators. They are used for confidential projects where access needs to be controlled 
+
+Branch 
+Its Separate Line of development  within a repository. 
+
+Commands of Git
+git init : It creates a git directory. 
+1.This directory contains all the configuration files, repositories and other internal data. GIT uses to manage your version control.
+2.Set up basic git structures. 
+3.Allows u to start tracking 
+
+git branch -M branch name:- It is used to create or rename a branch in GIT.
+
+git remote add origin (git url): This is used to add a remote repository to your local repository 
+
+git push -u origin main: It is used to push your local changes to a remote repository and setup tracking between your local branch and remote branch 
